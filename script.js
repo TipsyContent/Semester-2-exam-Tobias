@@ -33,7 +33,7 @@ var userFeed = new Instafeed({
   get: 'user',
   target: 'instafeed-container',
   resolution: 'low_resolution',
-  accessToken: 'IGQVJXVWdrZA2VUdXJVVFZAhV1dJMmtrQnBvOEpwa2F3QmppWGhycTBKSUJscV82SlV4VWlramkxdmw3N09hVlNsY0dyOTNBUnFQQkpqeGplZA0JRcHNRZAExNY2FOcC16cGlPZADVCYUhNRlQ1N25mZAnJVawZDZD',
+  accessToken: 'Acess key',
   template: '<a href="{{image}}" onclick="openLightbox(event)"><img src="{{image}}" alt="Instagram Picture"></a>'
   
 });
